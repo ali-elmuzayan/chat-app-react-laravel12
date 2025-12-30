@@ -4,8 +4,8 @@ A modern, real-time chat application built with Laravel, Inertia.js, and React. 
 
 ## 🚀 Tech Stack
 
-- **Backend:** Laravel 11 (or latest)
-- **Frontend:** React 18+
+- **Backend:** Laravel 12 
+- **Frontend:** React 19+
 - **Glue:** Inertia.js
 - **Real-time:** Laravel Reverb / Pusher
 - **Styling:** Tailwind CSS
@@ -27,7 +27,7 @@ A modern, real-time chat application built with Laravel, Inertia.js, and React. 
 1.  **Clone the repository**
     ```bash
     git clone <repository-url>
-    cd 07_chat_app_react
+    cd chat-app-react-laravel12
     ```
 
 2.  **Install Backend Dependencies**
@@ -77,6 +77,3 @@ A modern, real-time chat application built with Laravel, Inertia.js, and React. 
 - [ ] File Uploads
 - [ ] Group Chat Features
 
-## 📄 License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
