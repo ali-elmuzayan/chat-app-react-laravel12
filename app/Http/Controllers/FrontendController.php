@@ -12,6 +12,6 @@ class FrontendController extends Controller
     // Method to handle the home page request
     public function home() : Response
     {
-        return Inertia::render('Home');
+        return Inertia::render('Front/Home');
     }
 }
